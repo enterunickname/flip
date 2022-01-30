@@ -1,3 +1,3 @@
 fun main (args: Array<String>) {
-    print("Hello world!")
+    var age:Int = 1
 }
