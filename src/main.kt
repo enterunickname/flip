@@ -1,3 +1,7 @@
-fun main (args: Array<String>) {
-    var age:Int = 1
+fun main() {
+    if(false) {
+        print("Okay")
+    }else {
+        print("ne ok")
+    }
 }
